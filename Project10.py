@@ -17,3 +17,4 @@ while True:
     else:
         print(f"Congratulations! You've guessed the number in {number_of_guesses} tries.")
         break
+    
